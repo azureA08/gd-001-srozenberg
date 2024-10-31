@@ -21,6 +21,8 @@ public class Info {
     private String descripcion;
     @Column(columnDefinition = "TEXT")
     private String info;
-
+    //Fecha iny yyyyMMDDDhhmmss
+    @Column
+    private int fechaUltimoCambio;
 
 }
