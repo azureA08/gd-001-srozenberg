@@ -15,7 +15,9 @@ TODO            ETAPA 2. Automatizar la genracion de contextos , utilizando set 
 PRUEBAS            TODO
 
 INFO. ADICIONAL
-    En la carpeta 0001-Doc : Documentaciones adicionales.
+    En la carpeta 0001-Doc : Docu+cmentaciones adicionales.
+    
+-- Migraciom a Devin
 
-    Ultimo Update  [20241029]
+    Ultimo Update  [20260413]
                 
